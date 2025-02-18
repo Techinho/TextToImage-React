@@ -58,7 +58,7 @@ function TextToImage() {
 
   return (
     <div className="container mx-auto px-4 py-8 ">
-      <div className="bg-white p-8 rounded-lg shadow-lg">
+      <div className="bg-gray-50 p-8 rounded-lg shadow-lg">
         <h1 className="text-4xl font-bold text-gray-800 text-center mb-4">
           AI Text to Image Generator
         </h1>
